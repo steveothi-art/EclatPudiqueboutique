@@ -1,6 +1,4 @@
-// ==========================================
-// MENU HAMBURGER
-// ==========================================
+
 
 const hamburger = document.querySelector(".hamburger");
 const mobileMenu = document.getElementById("mobileMenu");
